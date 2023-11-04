@@ -1,4 +1,4 @@
 glove_embeddings/*
 mnist_raw/*
 asl_data/*
-*.pckl
+*.pkl
